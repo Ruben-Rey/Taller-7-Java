@@ -1,0 +1,9 @@
+bujia::10::50
+pastillas de Freno::10::30
+bateria::10::150
+neumaticos::10::60
+filtros::10::30
+cadena::10::70
+revision::10::50
+mantenimiento::10::100
+reparacion::10::70	
